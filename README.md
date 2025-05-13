@@ -1,1 +1,1 @@
-# root-cpp-for-education
+# sample-cpp-edu
